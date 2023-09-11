@@ -1,0 +1,91 @@
+{
+      "intents": [
+            {
+                  "intent": "greeting",
+                  "text": [
+                        "Hi",
+                        "Hi there",
+                        "Hola",
+                        "Hello",
+                        "Hello there",
+                        "Hiya",
+                        "Hiya there"
+
+                  ]
+            },
+            {
+                  "intent": "how_are_you",
+                  "text": [
+                        "How are you",
+                        "Are you okay",
+                        "How are you doing",
+                        "How are you feeling",
+                        "How are you today"
+                  ]
+            },
+            {
+                  "intent": "i_am_good",
+                  "text": [
+                        "I am good",
+                        "Thank you I'm good",
+                        "I am alright thanks"
+                  ]
+            },
+            {
+                  "intent": "get_user_name",
+                  "text": [
+                        "What is my name?",
+                        "What do you call me?",
+                        "Who do you think I am?",
+                        "What do you think I am?",
+                        "Who are you talking to?",
+                        "What name do you call me by?",
+                        "Tell me my name"
+                  ]
+            },
+            {
+                  "intent": "get_chatbot_name",
+                  "text": [
+                        "What is your name?",
+                        "What could I call you?",
+                        "What can I call you?",
+                        "What do your friends call you?",
+                        "Who are you?",
+                        "Tell me your name?"
+                  ]
+            },
+            {
+                  "intent": "change_name",
+                  "text": [
+                        "My name is _",
+                        "This is _",
+                        "I am _",
+                        "I'm _",
+                        "Im _",
+                        "Call me _"
+                  ]
+            },
+            {
+                  "intent": "flight",
+                  "text": [
+                        "I would like to book a holiday",
+                        "A holiday would be nice",
+                        "Can you help me with booking a holiday",
+                        "I want to go on holiday",
+                        "I want to book a flight",
+                        "Book a flight",
+                        "I want to fly"
+                  ]
+            },
+            {
+                  "intent": "stop",
+                  "text": [
+                        "Bye",
+                        "See you later",
+                        "Goodbye",
+                        "Quit",
+                        "Stop"
+                  ]
+            }
+      ]
+}

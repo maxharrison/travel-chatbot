@@ -1,0 +1,17 @@
+{
+      "intents": [
+            {
+                  "intent": "yes",
+                  "text": [
+                        "Yes"
+
+                  ]
+            },
+            {
+                  "intent": "no",
+                  "text": [
+                        "No"
+                  ]
+            }
+      ]
+}
